@@ -1,0 +1,1 @@
+SELECT AVG(salaire) FROM collaborateur WHERE type_collaborateur = "Comptable"

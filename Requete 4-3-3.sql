@@ -1,0 +1,1 @@
+DELETE FROM collaborateur WHERE nom = "Anquez"

@@ -1,0 +1,1 @@
+UPDATE collaborateur SET nom = 'Anquez' WHERE prenom = 'Jean'

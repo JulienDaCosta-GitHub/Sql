@@ -1,0 +1,1 @@
+SELECT tel,mail FROM `collaborateur`
